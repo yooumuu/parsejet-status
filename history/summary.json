@@ -22,19 +22,19 @@
     "url": "https://api.parsejet.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.parsejet.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "94.54%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
-    "time": 720,
-    "timeDay": 723,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "93.55%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
+    "time": 742,
+    "timeDay": 794,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2026-03-28": 79
+      "2026-03-28": 93
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://api.parsejet.com/v1/parse/auto/url",
     "icon": "https://icons.duckduckgo.com/ip3/api.parsejet.com.ico",
     "slug": "parse-url",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 558,
-    "timeDay": 557,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 644,
+    "timeDay": 842,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {
-      "2026-03-28": 16
+      "2026-03-28": 30
     }
   }
 ]
