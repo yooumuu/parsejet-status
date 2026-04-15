@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 222,
-    "timeWeek": 187,
-    "timeMonth": 177,
-    "timeYear": 177,
+    "time": 174,
+    "timeDay": 110,
+    "timeWeek": 172,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.parsejet.com.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 757,
-    "timeDay": 840,
-    "timeWeek": 738,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 761,
+    "timeDay": 868,
+    "timeWeek": 773,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2026-03-28": 93
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 577,
-    "timeDay": 884,
-    "timeWeek": 590,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 591,
+    "timeDay": 975,
+    "timeWeek": 686,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2026-03-28": 30
     }
