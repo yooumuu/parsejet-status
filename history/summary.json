@@ -45,7 +45,7 @@
     "url": "https://api.parsejet.com/v1/parse/auto/url",
     "icon": "https://icons.duckduckgo.com/ip3/api.parsejet.com.ico",
     "slug": "parse-url",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
